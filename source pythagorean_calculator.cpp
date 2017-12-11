@@ -20,8 +20,7 @@ int main() {
 	int a2=a*a;
 	int b2=b*b;
 	double c=a2+b2;
-	double ans;
-	ans = sqrt (c);
+	double ans = sqrt (c);
 	cout << ans <<endl;
 	return 0;
 }
