@@ -1,5 +1,5 @@
 /*============================================================================
-* Name        : test.cpp
+* Name        : source pythagorean_calculator.cpp
 * Author      : Connor Gibson
 * Version     : 1.0
 * Description : it is a pythagorean theorem calculator
